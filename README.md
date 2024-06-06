@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Sparsh2503
-- 👀 I’m interested in the field of data analytics 
+- 👀 I’m interested in the field of data science and analytics 
 - 🌱 I’m currently pursuing B.tech from NIT Rourkela in Mechanical Engineering 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me sparshkumar2503@gmail.com
 
 <!---
