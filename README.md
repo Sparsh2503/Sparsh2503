@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Sparsh2503
 - 👀 I’m interested in the field of data science and analytics 
-- 🌱 I’m currently pursuing B.tech from NIT Rourkela in Mechanical Engineering 
+- 🌱 B.tech from NIT Rourkela in Mechanical Engineering 
 - 📫 How to reach me sparshkumar2503@gmail.com
+- Currrently employed as data scientist in ICICI Bank
 
 <!---
 Sparsh2503/Sparsh2503 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
